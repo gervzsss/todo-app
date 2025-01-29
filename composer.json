@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/todo-app",
+    "description": "A simple todo-app built with php",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\TodoApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ggervzsss"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
